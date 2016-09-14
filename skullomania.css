@@ -1,8 +1,8 @@
 /* SWATCHES ---------------------------------------------------------------------- */
 
-span.cm-link		{ color: #fa4f68; }
-span.cm-number		{ color: #fa4f68; }
-span.cm-string		{ color: #fa4f68; }
+span.cm-link		{ color: #4FBEFA; }
+span.cm-number		{ color: #4FBEFA; }
+span.cm-string		{ color: #4FBEFA; }
 
 span.cm-atom		{ color: #cdcdcd; }
 span.cm-meta		{ color: #cdcdcd; }
@@ -62,13 +62,13 @@ span.cm-qualifier	{ color: #ffffff; }
 
 .CodeMirror-matchingbracket {
     background: transparent !important;
-	border-bottom: 3px solid #fa4f68 !important;
+	border-bottom: 3px solid #4FBEFA !important;
     color: #fff !important;
 }
 
 .CodeMirror-matchingtag {
     background: transparent !important;
-	border-bottom: 3px solid #fa4f68 !important;
+	border-bottom: 3px solid #4FBEFA !important;
 }
 
 /* Active Line */
