@@ -20,7 +20,7 @@ span.cm-comment		{ color: #717171; }
 span.cm-error		{ color: #f5ff00; }
 span.cm-keyword		{ color: #ededed; }
 span.cm-property	{ color: #98a6b5; }
-span.cm-variable-2	{ color: #7CCAA2; }
+span.cm-variable-2	{ color: #a1d9bc; }
 
 span.cm-string-2    { color: #ff893f; }
 span.cm-variable-3	{ color: #ff893f; }
@@ -55,7 +55,7 @@ span.cm-qualifier	{ color: #ffffff; }
 }
 
 .CodeMirror-selected {
-	background: ##556279 !important;
+	background: #556279 !important;
 }
 
 /* Matching */
